@@ -1,0 +1,10 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "repository": "https://github.com/Olikamih/Frot-end-Frameworks.git",
+  "author": "Kamila Ferreira de Oliveira - Matrícula:04161426",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

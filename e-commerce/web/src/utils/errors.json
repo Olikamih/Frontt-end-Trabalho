@@ -1,0 +1,12 @@
+{
+  "form": {
+    "default": {
+      "empty": "requerido",
+      "invalid": "inválido"
+    },
+    "confirmPassword": {
+      "notEqual": "as senhas não coincidem",
+      "dependentEmpty": "preencha o campo senha"
+    }
+  }
+}
